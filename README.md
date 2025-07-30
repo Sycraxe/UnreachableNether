@@ -1,7 +1,7 @@
 # Unreachable Nether
 
 ## About
-**Unreachable Nether** is a mod for modpack makers that **prevents Nether portals from being created** by players and entities.
+**Unreachable Nether** prevents Nether portals from being created by legit methods. This mod is mostly aimed for modpack makers.
 
 ## License
 This project is licensed under MIT.
